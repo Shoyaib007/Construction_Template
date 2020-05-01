@@ -1,0 +1,250 @@
+@media (max-width:575px){
+    #header .hr_menu, #header .hl_menu{
+        text-align: center!important;
+    }
+    
+    .bnr_art h2, .bnr_art .typed-cursor, .bnr_art #typed{
+        font-size: 20px;
+    }
+    
+    .bnr_art h1{
+        font-size: 20px;
+    }
+    .bnr_art p, .svg_cart p{
+        font-size: 14px;
+    }
+    .btn_group .btn{
+        font-size: 12px;
+        margin:0 6px;
+    }
+    .abt_art, .svg_cart{
+        text-align: center;
+    }
+    .abt_art h2{
+        font-size: 19px;
+    }
+    .abt_art h3 {
+    font-size: 19px;
+   
+    }
+    .abt_art .btn{
+        margin-top: 25px;
+    }
+    .blg_cont h2{
+        font-size: 20px;
+    }
+    .blg_cont p{
+        font-size: 17px;
+    }
+    .blg_art{
+        margin-top: 30px;
+    }
+    .svg_cart h3{
+        font-size: 17px;
+    }
+    
+    .rvws_cont {
+    width: 90%;
+    margin: auto;
+        margin-bottom: auto;
+    margin-top: 186px;
+    margin-bottom: 20px;
+}
+    
+    .rnd_img {
+    margin-top: 10px;
+    transition: all 0.2s linear;
+    left: 113px;
+    }
+    
+    .ft_cont .ft_menu3 {
+    margin-left: 68px;
+    margin-bottom: 43px
+    }
+    
+    .cntr_cont h2, .cntr_cont h2 span{
+        font-size: 18px;
+    }
+    .animated_searchbox .search{
+    
+        display: none;
+    }
+   
+    
+    
+    
+    
+}
+@media (min-width:576px) and (max-width:767px){
+        #header .hr_menu, #header .hl_menu{
+        text-align: center!important;
+    }
+    
+    .bnr_art h2, .bnr_art .typed-cursor, .bnr_art #typed{
+        font-size: 20px;
+    }
+    
+    .bnr_art h1{
+        font-size: 20px;
+    }
+    .bnr_art p, .svg_cart p{
+        font-size: 14px;
+    }
+    .btn_group .btn{
+        font-size: 12px;
+        margin:0 6px;
+    }
+    .abt_art, .svg_cart{
+        text-align: center;
+    }
+    .abt_art h2{
+        font-size: 19px;
+    }
+    .abt_art h3 {
+    font-size: 19px;
+   
+    }
+    .abt_art .btn{
+        margin-top: 25px;
+    }
+    .blg_cont h2{
+        font-size: 20px;
+    }
+    .blg_cont p{
+        font-size: 17px;
+    }
+    .blg_art{
+        margin-top: 30px;
+    }
+    .svg_cart h3{
+        font-size: 17px;
+    }
+    
+    .rvws_cont {
+    width: 90%;
+    margin: auto;
+        margin-bottom: auto;
+    margin-top: 186px;
+    margin-bottom: 20px;
+}
+    
+    .rnd_img {
+    margin-top: 10px;
+    transition: all 0.2s linear;
+    left: 221px;
+    }
+    
+    .ft_cont .ft_menu3 {
+    margin-left: 68px;
+    margin-bottom: 43px
+    }
+    .ft_menu4{
+        margin-left: 27px;
+    }
+     .animated_searchbox .search{
+    
+        margin-top: 58px;
+    }
+     .animated_searchbox .search{
+    
+        display: none;
+    }
+   
+    
+}
+@media (min-width:768px) and (max-width:991px){
+      #header .hr_menu, #header .hl_menu{
+        text-align: center!important;
+    }
+    
+    .bnr_art h2, .bnr_art .typed-cursor, .bnr_art #typed{
+        font-size: 20px;
+    }
+    
+    .bnr_art h1{
+        font-size: 20px;
+    }
+    .bnr_art p, .svg_cart p{
+        font-size: 14px;
+    }
+    .btn_group .btn{
+        font-size: 12px;
+        margin:0 6px;
+    }
+    .abt_art, .svg_cart{
+        text-align: center;
+    }
+    .abt_art h2{
+        font-size: 19px;
+    }
+    .abt_art h3 {
+    font-size: 19px;
+   
+    }
+    .abt_art .btn{
+        margin-top: 25px;
+    }
+    .blg_cont h2{
+        font-size: 20px;
+    }
+    .blg_cont p{
+        font-size: 17px;
+    }
+    .blg_art{
+        margin-top: 30px;
+    }
+    .svg_cart h3{
+        font-size: 14px;
+    }
+    
+    .rvws_cont {
+    width: 90%;
+    margin: auto;
+        margin-bottom: auto;
+    margin-top: 186px;
+    margin-bottom: 20px;
+}
+    
+    .rnd_img {
+    margin-top: 10px;
+    transition: all 0.2s linear;
+    left: 72px;
+    }
+    
+    .ft_cont .ft_menu3 {
+    margin-left: 8px;
+    margin-bottom: 43px
+    }
+    .ft_menu4{
+        margin-left: 13px;
+    }
+    .blg_art h3 {
+    font-family: "FuturaLT-Bold";
+    font-size: 13px;
+    }
+    
+     .cntr_cont h2, .cntr_cont h2 span{
+        font-size: 18px;
+    }
+    .ft_cont h2{
+        font-size: 18px;
+    }
+     .animated_searchbox .search{
+    
+        margin-top: 58px;
+    }
+    
+}
+@media (min-width:992px) and (max-width:1199px){
+    .rnd_img{
+        left:80px;
+    }
+    
+    .cntr_cont h2, .cntr_cont h2 span{
+        font-size: 20px;
+    }
+     .ft_menu4{
+        margin-left: 36px;
+    }
+}
+@media (min-width:1200){}
